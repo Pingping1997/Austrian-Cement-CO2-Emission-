@@ -13,7 +13,8 @@ This component includes a test script to ensure that the code runs without error
 ```r
 conda create --name CementAT_env
 conda activate CementAT_env
-python test_transport.py
+python -m unittest test_transport.py
+python -m unitest test_map.py
 ```
 
 ## Installation and Packages
