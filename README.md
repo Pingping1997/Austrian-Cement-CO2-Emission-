@@ -36,9 +36,9 @@ install.packages("openxlsx")
 We welcome contributions to CementAT. Please feel free to submit pull requests or contact us with any suggestions or issues.
 
 ## License
-This project is licensed under the MIT license.
-### The MIT License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+This project is licensed under the [Apache license, Version 2.0](https://github.com/Pingping1997/CementAT/blob/main/LICENSE)
+### Apache License, Version 2.0
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Contact
 If you have questions or comments about CementAT, please contact me at pingpingping.wang@tuwien.ac.at.
