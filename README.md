@@ -5,7 +5,7 @@ CementAT is a project that visualizes the Austrian cement plants and their corre
 
 ## Documentation and Support
 * `Cement_AT.R`
-This component contains data on the Austrian cement industry, including the locations of cement plants, their corresponding CO2 emissions, and their capacities.
+This component contains data and visualization on the Austrian cement industry, including the locations of cement plants, their corresponding CO2 emissions, and their capacities.
 * `Transportation_AT.R`
 This component contains data on the transportation of CO2 emissions from the cement plants to possible CO2 storage sites/ports, using different modes of transportation. It includes the distances between the plants and the storage sites/ports, the CO2 transportation capacity, and the transportation costs.
 * `test_transport.py`, `test_map.py`
